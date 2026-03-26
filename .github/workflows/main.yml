@@ -120,7 +120,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 32545622
+          plugin_stackoverflow_user: 32546299
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
 
