@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lucktyt1+(Tang);Robotics+Dev+Student;Overwatch+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lucktyt1+(Tang);" alt="Typing SVG" />
 </p>
 
 > **Software Engineering Student (Intelligent Manufacturing) | Embedded Systems & Robotics Enthusiast**
