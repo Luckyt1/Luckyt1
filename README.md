@@ -10,22 +10,6 @@
     * Current: **Intel NUC & ELRS** link for robot control.
 * **🎮 Interests:** Proud Overwatch enthusiast.
 <!-- ══════════════════════════════════════════════════════
-     ①  Base（左宽）+ Languages & WakaTime（右窄叠放）
-══════════════════════════════════════════════════════ -->
-<table width="100%">
-  <tr>
-    <td valign="top" width="55%">
-      <img src="/github-metrics/base.svg" alt="base" width="100%" />
-    </td>
-    <td valign="top" width="45%">
-      <img src="/github-metrics/languages.indepth.svg" alt="languages" width="100%" />
-      <img src="/github-metrics/wakatime.svg" alt="wakatime" width="100%" />
-      <img src="/github-metrics/calendar.full.svg" alt="calendar" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- ══════════════════════════════════════════════════════
      ③  Contribution Snake  全宽
 ══════════════════════════════════════════════════════ -->
 <picture>
