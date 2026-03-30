@@ -1,11 +1,12 @@
-👋 你好，我是 Lucktyt1(tang)
+# 👋 Hi, I'm Lucktyt1 (Tang)
 
-> **软件工程(智能制造方向)专业学生 | 嵌入式与机器人开发爱好者**
+> **Software Engineering Student (Intelligent Manufacturing) | Embedded Systems & Robotics Enthusiast**
 
-* **🛠️ 当前研究：** ROS2, SLAM (Point-LIO), 多传感器融合 (LiDAR/IMU/GPS)。
-* **💻 核心栈：** C++, Python, Linux (Ubuntu), PCB 设计。
-* **🤖 项目经历：** 曾于半醒具身科技实习，负责机器人导航及设备驱动编写；目前正在折腾 NUC 与 ELRS 链路的机器人控制。
-* **🎮 兴趣：**  尊贵的ow玩家。
+* **🛠️ Current Focus:** ROS2, SLAM (Point-LIO), Multi-sensor Fusion (LiDAR/IMU/GPS).
+* **💻 Tech Stack:** C++, Python, Linux (Ubuntu), PCB Design.
+* **🤖 Projects:** * Interned at **BXI Embodied Tech**, focusing on robot navigation and driver development.
+  * Currently working on robot control via **Intel NUC & ELRS** link.
+* **🎮 Interests:** A proud **Overwatch** player.
 <!-- ══════════════════════════════════════════════════════
      ①  Base（左宽）+ Languages & WakaTime（右窄叠放）
 ══════════════════════════════════════════════════════ -->
