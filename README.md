@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Lucktyt1 (Tang)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lucktyt1+(Tang);Robotics+Dev+Student;Overwatch+Enthusiast" alt="Typing SVG" />
+</p>
 
 > **Software Engineering Student (Intelligent Manufacturing) | Embedded Systems & Robotics Enthusiast**
 
 * **🛠️ Current Focus:** ROS2, SLAM (Point-LIO), Multi-sensor Fusion (LiDAR/IMU/GPS).
 * **💻 Tech Stack:** C++, Python, Linux (Ubuntu), PCB Design.
-* **🤖 Projects:** * Interned at **BXI Embodied Tech**, focusing on robot navigation and driver development.
-  * Currently working on robot control via **Intel NUC & ELRS** link.
-* **🎮 Interests:** A proud **Overwatch** player.
+* **🤖 Projects:** * Interned @ **BXI Embodied Tech**, robot navigation & driver dev.
+    * Current: **Intel NUC & ELRS** link for robot control.
+* **🎮 Interests:** Proud Overwatch enthusiast.
 <!-- ══════════════════════════════════════════════════════
      ①  Base（左宽）+ Languages & WakaTime（右窄叠放）
 ══════════════════════════════════════════════════════ -->
