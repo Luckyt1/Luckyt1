@@ -4,7 +4,7 @@
 
 > **Software Engineering Student (Intelligent Manufacturing) | Embedded Systems & Robotics Enthusiast**
 
-* **🛠️ Current Focus:** ROS2, SLAM (Point-LIO), Multi-sensor Fusion (LiDAR/IMU/GPS).
+* **🛠️ Current Focus:** ROS2, SLAM, Multi-sensor Fusion (LiDAR/IMU/GPS).
 * **💻 Tech Stack:** C++, Python, Linux (Ubuntu), PCB Design.
 * **🤖 Projects:** * Interned @ **BXI Embodied Tech**, robot navigation & driver dev.
        Current: **Intel NUC & ELRS** link for robot control.
